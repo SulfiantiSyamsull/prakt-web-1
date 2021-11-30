@@ -6,6 +6,13 @@ use Illuminate\Http\Request;
 
 class SalehController extends Controller
 {
+
     function hai() {
+
+    }
+
+    public function testing()
+    {
+
     }
 }
